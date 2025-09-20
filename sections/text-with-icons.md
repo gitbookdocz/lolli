@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-messages"></i>
+icon: messages
 ---
 
 # Text with Icons

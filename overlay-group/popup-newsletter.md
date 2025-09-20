@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-newspaper"></i>
+icon: newspaper
 ---
 
 # Popup Newsletter

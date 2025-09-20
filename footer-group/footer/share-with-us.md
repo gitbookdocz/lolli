@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-share-nodes"></i>
+icon: share-nodes
 ---
 
 # Share with Us

@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-briefcase-arrow-right"></i>
+icon: briefcase-arrow-right
 ---
 
 # Wave Marquee

@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-lock"></i>
+icon: lock
 ---
 
 # Template - Password Page

@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-envelope-open-dollar"></i>
+icon: envelope-open-dollar
 ---
 
 # Newsletter

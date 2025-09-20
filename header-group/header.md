@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-book-open-reader"></i>
+icon: book-open-reader
 ---
 
 # Header

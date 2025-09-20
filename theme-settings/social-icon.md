@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-chart-network"></i>
+icon: chart-network
 ---
 
 # Social Icon

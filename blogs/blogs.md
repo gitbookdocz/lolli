@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-block-brick"></i>
+icon: block-brick
 ---
 
 # Blogs

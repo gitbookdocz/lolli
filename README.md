@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-lips"></i>
+icon: lips
 cover: .gitbook/assets/lollypop banner (1).jpg
 coverY: 0
 ---

@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-ban"></i>
+icon: ban
 ---
 
 # Template - 404 Page

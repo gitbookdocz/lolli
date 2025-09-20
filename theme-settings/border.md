@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-bars"></i>
+icon: bars
 ---
 
 # Border

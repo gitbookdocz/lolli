@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-cart-circle-plus"></i>
+icon: cart-circle-plus
 ---
 
 # Featured Products

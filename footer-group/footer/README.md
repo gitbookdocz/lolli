@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-inboxes"></i>
+icon: inboxes
 ---
 
 # Footer

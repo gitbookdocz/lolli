@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-arrow-up-right-dots"></i>
+icon: arrow-up-right-dots
 ---
 
 # Collection Gallery

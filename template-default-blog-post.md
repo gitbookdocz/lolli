@@ -1,6 +1,6 @@
 ---
 description: This section shows lists of the blogs published on your website.
-<i class="fa-solid fa-table-cells-large"></i>
+icon: table-cells-large
 ---
 
 # Template- Default Blog Post

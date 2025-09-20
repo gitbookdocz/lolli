@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-magnifying-glass"></i>
+icon: magnifying-glass
 ---
 
 # Template - Search Result

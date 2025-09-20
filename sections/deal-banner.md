@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-alarm-snooze"></i>
+icon: alarm-snooze
 ---
 
 # Deal Banner

@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-films"></i>
+icon: films
 ---
 
 # Shoppable Video

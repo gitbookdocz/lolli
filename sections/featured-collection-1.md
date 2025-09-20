@@ -1,6 +1,6 @@
 ---
 hidden: true
-<i class="fa-solid fa-chart-tree-map"></i>
+icon: chart-tree-map
 ---
 
 # Collection list

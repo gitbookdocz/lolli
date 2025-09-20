@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-css3-alt"></i>
+icon: css3-alt
 ---
 
 # Custom CSS

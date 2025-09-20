@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-cart-flatbed-suitcase"></i>
+icon: cart-flatbed-suitcase
 ---
 
 # Content showcase

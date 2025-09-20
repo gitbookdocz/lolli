@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-arrow-right-from-bracket"></i>
+icon: arrow-right-from-bracket
 ---
 
 # Marquee

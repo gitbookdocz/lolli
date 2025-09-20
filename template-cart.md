@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-cart-circle-exclamation"></i>
+icon: cart-circle-exclamation
 ---
 
 # Template- Cart

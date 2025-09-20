@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-comment-question"></i>
+icon: comment-question
 ---
 
 # Quiz Section

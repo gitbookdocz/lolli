@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-grid-dividers"></i>
+icon: grid-dividers
 ---
 
 # Collections

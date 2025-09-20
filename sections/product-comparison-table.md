@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-code-simple"></i>
+icon: code-simple
 ---
 
 # Product Comparison Table

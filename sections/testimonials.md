@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-message-quote"></i>
+icon: message-quote
 ---
 
 # Testimonials

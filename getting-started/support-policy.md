@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-pipe-collar"></i>
+icon: pipe-collar
 ---
 
 # Support Policy

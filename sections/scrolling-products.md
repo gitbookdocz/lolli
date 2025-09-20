@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-scribble"></i>
+icon: scribble
 ---
 
 # Scrolling products

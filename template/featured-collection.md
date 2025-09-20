@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-chart-tree-map"></i>
+icon: chart-tree-map
 ---
 
 # Template Collection List Page

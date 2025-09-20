@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-envelopes-bulk"></i>
+icon: envelopes-bulk
 ---
 
 # Newsletter

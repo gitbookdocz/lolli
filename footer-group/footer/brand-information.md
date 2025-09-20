@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-info"></i>
+icon: info
 ---
 
 # Brand information

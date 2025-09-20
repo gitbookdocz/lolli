@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-blanket"></i>
+icon: blanket
 ---
 
 # Promo banner

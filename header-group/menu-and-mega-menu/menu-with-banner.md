@@ -1,5 +1,5 @@
 ---
-<i class="fa-solid fa-flag-pennant"></i>
+icon: flag-pennant
 ---
 
 # Menu with banner
