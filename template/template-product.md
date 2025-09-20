@@ -1,6 +1,6 @@
 ---
 description: This section is to maintain the settings of the product page on your store.
-icon: sitemap
+<i class="fa-solid fa-sitemap"></i>
 ---
 
 # Template product

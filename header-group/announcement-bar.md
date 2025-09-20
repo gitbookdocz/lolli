@@ -1,5 +1,5 @@
 ---
-icon: bullhorn
+<i class="fa-solid fa-bullhorn"></i>
 ---
 
 # Announcement Bar

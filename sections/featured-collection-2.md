@@ -1,5 +1,5 @@
 ---
-icon: chart-tree-map
+<i class="fa-solid fa-chart-tree-map"></i>
 ---
 
 # Collection list

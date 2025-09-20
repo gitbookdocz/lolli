@@ -1,5 +1,5 @@
 ---
-icon: code-compare
+<i class="fa-solid fa-code-compare"></i>
 ---
 
 # Comparison Banner

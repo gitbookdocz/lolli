@@ -1,5 +1,5 @@
 ---
-icon: camcorder
+<i class="fa-solid fa-camcorder"></i>
 ---
 
 # Floating video

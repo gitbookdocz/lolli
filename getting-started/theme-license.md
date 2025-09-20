@@ -1,5 +1,5 @@
 ---
-icon: file-certificate
+<i class="fa-solid fa-file-certificate"></i>
 ---
 
 # Theme license

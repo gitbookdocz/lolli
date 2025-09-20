@@ -1,5 +1,5 @@
 ---
-icon: diagram-lean-canvas
+<i class="fa-solid fa-diagram-lean-canvas"></i>
 ---
 
 # Offcanvas Drawer

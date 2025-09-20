@@ -1,5 +1,5 @@
 ---
-icon: wifi
+<i class="fa-solid fa-wifi"></i>
 ---
 
 # Shop the look

@@ -1,5 +1,5 @@
 ---
-icon: olive-branch
+<i class="fa-solid fa-olive-branch"></i>
 ---
 
 # Brand logo

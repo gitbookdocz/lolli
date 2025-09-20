@@ -1,5 +1,5 @@
 ---
-icon: subtitles
+<i class="fa-solid fa-subtitles"></i>
 ---
 
 # Rich Text

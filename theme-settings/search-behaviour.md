@@ -1,5 +1,5 @@
 ---
-icon: searchengin
+<i class="fa-solid fa-searchengin"></i>
 ---
 
 # Search behaviour

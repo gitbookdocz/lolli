@@ -1,5 +1,5 @@
 ---
-icon: bullseye-arrow
+<i class="fa-solid fa-bullseye-arrow"></i>
 ---
 
 # Featured collection

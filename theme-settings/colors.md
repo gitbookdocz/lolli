@@ -1,5 +1,5 @@
 ---
-icon: palette
+<i class="fa-solid fa-palette"></i>
 ---
 
 # Colors

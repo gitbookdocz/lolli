@@ -1,5 +1,5 @@
 ---
-icon: terminal
+<i class="fa-solid fa-terminal"></i>
 ---
 
 # Custom Liquid

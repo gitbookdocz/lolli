@@ -1,5 +1,5 @@
 ---
-icon: cart-circle-plus
+<i class="fa-solid fa-cart-circle-plus"></i>
 ---
 
 # Products Page

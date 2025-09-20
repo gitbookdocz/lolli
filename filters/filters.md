@@ -1,5 +1,5 @@
 ---
-icon: filter-circle-dollar
+<i class="fa-solid fa-filter-circle-dollar"></i>
 ---
 
 # Filters

@@ -1,5 +1,5 @@
 ---
-icon: compress
+<i class="fa-solid fa-compress"></i>
 ---
 
 # Collection list with Banner

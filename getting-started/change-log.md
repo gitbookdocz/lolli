@@ -1,5 +1,5 @@
 ---
-icon: align-justify
+<i class="fa-solid fa-align-justify"></i>
 ---
 
 # Change Log

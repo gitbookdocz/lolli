@@ -1,5 +1,5 @@
 ---
-icon: cart-flatbed-empty
+<i class="fa-solid fa-cart-flatbed-empty"></i>
 ---
 
 # Cart

@@ -1,5 +1,5 @@
 ---
-icon: drupal
+<i class="fa-solid fa-drupal"></i>
 ---
 
 # Logo

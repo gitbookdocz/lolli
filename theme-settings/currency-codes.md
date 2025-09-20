@@ -1,5 +1,5 @@
 ---
-icon: circle-euro
+<i class="fa-solid fa-circle-euro"></i>
 ---
 
 # Currency Codes

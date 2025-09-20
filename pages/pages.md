@@ -1,5 +1,5 @@
 ---
-icon: memo-circle-info
+<i class="fa-solid fa-memo-circle-info"></i>
 ---
 
 # Pages

@@ -1,5 +1,5 @@
 ---
-icon: envelopes-bulk
+<i class="fa-solid fa-envelopes-bulk"></i>
 ---
 
 # Blog Posts

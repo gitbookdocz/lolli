@@ -1,5 +1,5 @@
 ---
-icon: list-dropdown
+<i class="fa-solid fa-list-dropdown"></i>
 ---
 
 # Menu & Mega Menu

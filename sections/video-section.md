@@ -1,5 +1,5 @@
 ---
-icon: camera-security
+<i class="fa-solid fa-camera-security"></i>
 ---
 
 # Video Section

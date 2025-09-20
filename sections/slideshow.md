@@ -1,5 +1,5 @@
 ---
-icon: presentation-screen
+<i class="fa-solid fa-presentation-screen"></i>
 ---
 
 # Slideshow

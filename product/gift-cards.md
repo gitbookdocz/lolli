@@ -1,5 +1,5 @@
 ---
-icon: gift-card
+<i class="fa-solid fa-gift-card"></i>
 ---
 
 # Gift Cards

@@ -1,5 +1,5 @@
 ---
-icon: toggle-on
+<i class="fa-solid fa-toggle-on"></i>
 ---
 
 # Button

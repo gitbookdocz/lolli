@@ -1,5 +1,5 @@
 ---
-icon: id-card
+<i class="fa-solid fa-id-card"></i>
 ---
 
 # Contact Form

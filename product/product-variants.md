@@ -1,5 +1,5 @@
 ---
-icon: square-root-variable
+<i class="fa-solid fa-square-root-variable"></i>
 ---
 
 # Product Variants

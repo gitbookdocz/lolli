@@ -1,5 +1,5 @@
 ---
-icon: list-check
+<i class="fa-solid fa-list-check"></i>
 ---
 
 # Product info tabs

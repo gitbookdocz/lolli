@@ -1,5 +1,5 @@
 ---
-icon: rectangle-vertical-history
+<i class="fa-solid fa-rectangle-vertical-history"></i>
 ---
 
 # Image gallery

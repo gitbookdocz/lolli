@@ -1,5 +1,5 @@
 ---
-icon: shutters
+<i class="fa-solid fa-shutters"></i>
 ---
 
 # Template Main collection

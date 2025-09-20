@@ -1,5 +1,5 @@
 ---
-icon: meta
+<i class="fa-solid fa-meta"></i>
 ---
 
 # Metafield

@@ -1,5 +1,5 @@
 ---
-icon: credit-card
+<i class="fa-solid fa-credit-card"></i>
 ---
 
 # Cards

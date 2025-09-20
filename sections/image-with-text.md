@@ -1,5 +1,5 @@
 ---
-icon: photo-film
+<i class="fa-solid fa-photo-film"></i>
 ---
 
 # Image with Text

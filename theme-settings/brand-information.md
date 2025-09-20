@@ -1,6 +1,6 @@
 ---
 hidden: true
-icon: yelp
+<i class="fa-solid fa-yelp"></i>
 ---
 
 # Brand Information

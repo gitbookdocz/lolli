@@ -1,5 +1,5 @@
 ---
-icon: paintbrush-fine
+<i class="fa-solid fa-paintbrush-fine"></i>
 ---
 
 # Color Swatches

@@ -1,5 +1,5 @@
 ---
-icon: table-cells
+<i class="fa-solid fa-table-cells"></i>
 ---
 
 # Grid Banner

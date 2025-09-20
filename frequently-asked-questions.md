@@ -1,5 +1,5 @@
 ---
-icon: sliders
+<i class="fa-solid fa-sliders"></i>
 ---
 
 # Frequently asked questions

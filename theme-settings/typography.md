@@ -1,5 +1,5 @@
 ---
-icon: text-size
+<i class="fa-solid fa-text-size"></i>
 ---
 
 # Typography
