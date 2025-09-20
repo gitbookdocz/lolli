@@ -1,4 +1,3 @@
-
 name: Build and Deploy GitBook
 
 on:
@@ -39,7 +38,7 @@ jobs:
           
           # Check for missing files referenced in SUMMARY.md
           if [ -f "SUMMARY.md" ]; then
-            grep -o '\[.*\]($$.*\.md$$)' SUMMARY.md | sed 's/.*($$.*\.md$$).*/\1/' | while read file; do
+            grep -o '\[.*\](.*\.md)' SUMMARY.md | sed 's/.*(\(.*\.md\)).*/\1/' | while read file; do
               if [ ! -f "$file" ]; then
                 echo "Creating missing file: $file"
                 title=$(echo "$file" | sed 's/\.md$//' | sed 's/-/ /g' | sed 's/\b\w/\U&/g')
@@ -70,13 +69,34 @@ jobs:
           
       - name: Preprocess markdown files
         run: |
-          find . -name "*.md" -type f -exec sed -i 's/{% hint style="$$[^"]*$$" %}/> **\U\1:** /g' {} \;
+          find . -name "*.md" -type f -exec sed -i 's/{% hint style="[^"]*" %}/> **\U\1:** /g' {} \;
           find . -name "*.md" -type f -exec sed -i 's/{% hint %}/> **INFO:** /g' {} \;
           find . -name "*.md" -type f -exec sed -i 's/{% endhint %}/\n/g' {} \;
           
           # Remove any remaining liquid template tags that might cause errors
           find . -name "*.md" -type f -exec sed -i 's/{%[^%]*%}//g' {} \;
           find . -name "*.md" -type f -exec sed -i 's/{{[^}]*}}//g' {} \;
+          
+      - name: Insert Font Awesome icons
+        run: |
+          find . -type f -name "*.md" | while read -r file; do
+            icon=$(grep -m1 '^icon:' "$file" | awk -F': ' '{print $2}')
+            if [ -n "$icon" ] && ! grep -q "fa-solid fa-$icon" "$file"; then
+              awk -v icn="$icon" '
+                BEGIN {in_yaml=0}
+                /^---/ {
+                  if(in_yaml==1){
+                    print $0
+                    print "<i class=\"fa-solid fa-" icn "\"></i>\n"
+                  }
+                  in_yaml = !in_yaml
+                  next
+                }
+                {print}
+              ' "$file" > "$file.tmp" && mv "$file.tmp" "$file"
+              echo "Injected icon $icon into $file"
+            fi
+          done
           
       - name: Add Font Awesome and custom styles
         run: |
