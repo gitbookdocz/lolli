@@ -1,0 +1,41 @@
+/* Make it look like gitbook.io */
+.book .book-summary {
+    background: #2c3e50 !important;
+    width: 300px !important;
+}
+
+.book .book-summary ul.summary li a {
+    color: white !important;
+    padding: 12px 15px !important;
+    border-bottom: 1px solid #34495e !important;
+}
+
+.book .book-summary ul.summary li a:hover {
+    background: #34495e !important;
+}
+
+.book .book-summary ul.summary li.active > a {
+    background: #3498db !important;
+    font-weight: bold !important;
+}
+
+/* Add icons */
+.book .book-summary ul.summary li a:before {
+    font-family: "Font Awesome 6 Free" !important;
+    font-weight: 900 !important;
+    margin-right: 10px !important;
+    content: "\f15c" !important; /* default file icon */
+}
+
+.book .book-summary ul.summary li a[href*="readme"]:before,
+.book .book-summary ul.summary li a[href*="introduction"]:before {
+    content: "\f015" !important; /* home icon */
+}
+
+.book .book-summary ul.summary li a[href*="install"]:before {
+    content: "\f019" !important; /* download icon */
+}
+
+.book .book-summary ul.summary li a[href*="api"]:before {
+    content: "\f121" !important; /* code icon */
+}
